@@ -22,3 +22,5 @@ jobs:
       uses: codecov/codecov-action@v1
       with:
         name: actions ${{matrix.java}}
+        
+#Zing Java test only
